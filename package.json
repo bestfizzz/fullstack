@@ -1,0 +1,19 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "is-odd": "^3.0.1",
+    "readfile": "^1.0.1",
+    "writefile": "^0.2.8"
+  },
+  "devDependencies": {},
+  "description": ""
+}
